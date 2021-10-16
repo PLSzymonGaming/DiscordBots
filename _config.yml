@@ -16,6 +16,7 @@ show_sidebar: false
 # Menu
 
 navigation:
+  - {file: "README.md", title: "Home", icon:home}
   - {file: "index.html", title: "Bots", icon: home}
   
 external:
