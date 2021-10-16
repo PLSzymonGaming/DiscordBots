@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
+title: "Discord Bots"
+author: "PLSzymonGaming"
+description: "lol"
 
 navigation:
 - {file: "bots.html", icon: Bots}
