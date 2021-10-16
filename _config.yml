@@ -14,4 +14,4 @@ show_frame: false
 show_sidebar: false
 
 navigation:
-- {file: "bots.html", icon: Bots}
+  - {file: "bots.html", icon: Bots}
