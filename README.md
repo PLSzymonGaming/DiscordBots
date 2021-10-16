@@ -2,9 +2,9 @@
 
 Here you can find the best discord bots, that have been ever created!
 
-### Markdown
+### Sponsored Bots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Socials - a special discord bot, created by the owner of this website!
 
 ```markdown
 Syntax highlighted code block
