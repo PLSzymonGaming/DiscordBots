@@ -1,7 +1,17 @@
 theme: jekyll-theme-cayman
 title: "Discord Bots"
 author: "PLSzymonGaming"
-description: "lol"
+description: "The Best Diacord Website For Bots!"
+permalink: /:title/
+lang: "en"
+date_format: "%8 %d, %Y"
+
+# layout
+
+show_social: true
+show_excerpts: false
+show_frame: false
+show_sidebar: false
 
 navigation:
 - {file: "bots.html", icon: Bots}
