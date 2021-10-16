@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+navigation:
+- {file: "boty.html", icon: Boty}
