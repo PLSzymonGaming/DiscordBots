@@ -1,4 +1,4 @@
-## Welcome to Discord Bots!
+### Bots
 
 Here you can find the best discord bots, that have been ever created!
 
