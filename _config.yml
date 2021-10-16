@@ -16,7 +16,7 @@ show_sidebar: false
 # Menu
 
 navigation:
-  - {file: "bots.html", icon: Bots}
+  - {file: "bots.html", title: Bots, icon: home}
   
 external:
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/c/SzymonGamingYT/"}
